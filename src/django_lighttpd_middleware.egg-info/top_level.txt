@@ -1,1 +1,1 @@
-django-lighttpd-middleware
+django_lighttpd_middleware
