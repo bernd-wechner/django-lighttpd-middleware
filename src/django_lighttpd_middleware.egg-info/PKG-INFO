@@ -9,7 +9,7 @@ License: UNKNOWN
 Project-URL: Bug Tracker, https://github.com/bernd-wechner/django-lighttpd-middleware/issues
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
-Classifier: License :: Hippocratic License 3.0
+Classifier: License :: Freely Distributable
 Classifier: Operating System :: OS Independent
 Classifier: Development Status :: 4 - Beta
 Classifier: Framework :: Django :: 3.2
