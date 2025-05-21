@@ -8,7 +8,7 @@ In a nutshell, Apache is bloated, dated, slow and resource hungry, nginx is slic
 
 **So when is lighttpd the server of choice?**
 
-I'll leave you to search the reports on-line, they are easy to find,  but lighttpd performs on par with nginx on allmeasures. Sometimes a litle better, sometimes a little worse. Like nginx it is written from the godun up to be light, slick, fast and scaleable.
+I'll leave you to search the reports on-line, they are easy to find,  but lighttpd performs on par with nginx on all measures. Sometimes a litle better, sometimes a little worse. Like nginx it is written from the ground up to be light, slick, fast and scaleable.
 
 The key differences between lighttpd and nginx for me are:
 
